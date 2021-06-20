@@ -5,12 +5,6 @@ Https requests without any frameworks
 
 2) cd HTTPs_requests/
 
-3) git branch -a
-
-4) git checkout master
-
-5) git pull origin master
-
-
+3) pod install
 
 enjoy bro ! ! !
